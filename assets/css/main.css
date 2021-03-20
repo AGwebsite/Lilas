@@ -1407,20 +1407,18 @@
 
 	}
 
-	 /* html { 
-		background: url("../../images/bg.jpg") no-repeat center center ;
-		-webkit-background-size: cover;
-		-moz-background-size: cover;
-		-o-background-size: cover;
-		background-size: cover;
-	  }  */
+	 body { 
+  		background: url("../../images/bg.jpg") no-repeat center center ; 
+  		-webkit-background-size: cover;
+  		-moz-background-size: cover;
+  		-o-background-size: cover;
+  		background-size: cover;
+}
 
 	body {
-		background-color: #000;
-		background: url("../../images/bg.jpg") center center ; 
-		background-size: cover;
-		background-position: top center;
+	
 	}
+
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
 			-moz-animation: none !important;
