@@ -2620,6 +2620,7 @@
 		}
 
 		#header .avatar {
+			box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 			border-radius: 100%;
 			display: inline-block;
 			margin: 0 0 2em 0;
